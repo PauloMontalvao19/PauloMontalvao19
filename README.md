@@ -14,6 +14,5 @@ Ola, eu sou o Paulo Montalvao
 <img align="center" alt="paulo19" height="30" widht="40" src="https://th.bing.com/th/id/OIP.OPwq10E7qVAgKZrKyw2e1AAAAA?w=132&h=150&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3">
 <img align="center" alt="paulo19" height="30" widht="40" src="https://th.bing.com/th/id/OIP.E_Zdfc81BULGoQ5euB6KeAHaED?w=305&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3">
 
-- 
 
 
