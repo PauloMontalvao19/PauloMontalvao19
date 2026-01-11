@@ -4,7 +4,7 @@
 - 🌱 Cursando analise e desenvolvimento de sistemas.
 - 👯 Contate-me no email: paulomontalvao339@gmail.com.
 - 🤔 Pronouns: ele/dele.
-- 💬 Estudando Java.
+- 💬 Estudando Back-End.
 - 📱(79)99915-6109.
 - 📢Ingles nivel intermediario/fluente.
 - ⏏️Projetos de alta qualidade.
