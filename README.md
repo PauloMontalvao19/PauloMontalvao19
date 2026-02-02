@@ -1,13 +1,13 @@
 # 👦Paulo Oliveira Montalvao
 
-- 🔭 Fuul-Stack Developer.
+- 🔭 Full-Stack Developer.
 - 🌱 Cursando analise e desenvolvimento de sistemas.
 - 👯 Contate-me no email: paulomontalvao339@gmail.com.
 - 🤔 Pronouns: ele/dele.
-- 💬 Estudando Back-End.
+- 💬 Apaixonado por tecnologia.
 - 📱(79)99915-6109.
 - 📢Ingles nivel intermediario/fluente.
-- ⏏️Projetos de alta qualidade.
+- ⏏️Back-End/Front-End.
 
 <div style="display: inline_block"><br>
 <img align="center" alt="paulo19" height="30" widht="40" src="https://th.bing.com/th/id/OIP.MpMJcUTUXUvuwuB00vBR0gAAAA?w=158&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3">
